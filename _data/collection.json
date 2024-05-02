@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Avalon 7.7 test" ] },
+    "summary": { "en": [ "Test Avalon 7.7 manifest in AVAnnotate" ] },
+    "items": [
+    ]
+}
