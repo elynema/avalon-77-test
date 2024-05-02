@@ -1,5 +1,5 @@
 ---
-layout: item
+layout: aviary
 title: Lunchroom Manners
 manifest_name: lunchroom-manners
 permalink: lunchroom-manners
