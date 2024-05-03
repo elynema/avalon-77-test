@@ -1,0 +1,86 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://elynema.github.io/avalon-77-test/annotations/memory-in-memory-of-isang-yun-for-violin-violoncello-and-piano-test-canvas-1-structure.json",
+  "type": "AnnotationPage",
+  "label": "structure",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "memory-in-memory-of-isang-yun-for-violin-violoncello-and-piano-test-canvas-1-structure-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "intro",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "contents",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://elynema.github.io/avalon-77-test/memory-in-memory-of-isang-yun-for-violin-violoncello-and-piano-test/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://media.dlib.indiana.edu/media_objects/jm215f41x/manifest",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "0.0,60.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "memory-in-memory-of-isang-yun-for-violin-violoncello-and-piano-test-canvas-1-structure-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "workflow",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "contents",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://elynema.github.io/avalon-77-test/memory-in-memory-of-isang-yun-for-violin-violoncello-and-piano-test/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://media.dlib.indiana.edu/media_objects/jm215f41x/manifest",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "90.0,105.0"
+        }
+      }
+    }
+  ]
+}
